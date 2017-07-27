@@ -1,4 +1,4 @@
-![](./img/polysloth.png)
+![](./img/polysloth.png )
 
 # README
 
