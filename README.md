@@ -1,3 +1,5 @@
+![](./img/polysloth.png)
+
 # README
 
 DISCLAIMER: This project is still in development and hasn't produced a stable version yet.
